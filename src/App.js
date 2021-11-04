@@ -9,21 +9,21 @@ import Qualification from "./components/Qualification/Qualification"
 function App() {
   return (
     <>
-      <Landing />
+      {/* <Landing /> */}
       <section>
-        <Home />
+        {/* <Home /> */}
 
-        <div className="section gray1">
+        {/* <div className="section gray1">
           <About />
-        </div>
+        </div> */}
 
-        <div className="section gray2">
+        {/* <div className="section gray2">
           <Skills/>
-        </div>
+        </div> */}
 
-        <div className="section gray2">
+        {/* <div className="section gray2">
           <Qualification/>
-        </div>
+        </div> */}
         <div className="section"></div>
       </section>
     </>
